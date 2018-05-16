@@ -1,2 +1,3 @@
 # hello-world
-me fuhrst
+This is my first GitHub Repository.
+yay!
